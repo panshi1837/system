@@ -10,7 +10,7 @@ if (num>5&&num<=15) {
             System.out.println(10+(num-5)*0.3);
         }
         if(num>15){
-            System.out.println("行李重量太大，不可以托运");
+            System.out.println("行李重量太大666，不可以托运");
         }
 
     }
