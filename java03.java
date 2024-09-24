@@ -5,13 +5,12 @@ public class java03 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入一个数字：");
         int num = scanner.nextInt();
-
 if(num<=5) System.out.println("10元");
 if (num>5&&num<=15) {
             System.out.println(10+(num-5)*0.3);
         }
         if(num>15){
-            System.out.println("行李重量太大666，6666不可以托运");
+            System.out.println("行李重量太大6666，不可以托运");
         }
 
     }
